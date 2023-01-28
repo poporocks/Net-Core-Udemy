@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\edgar.lao\Desktop\Udemy\Net-Core-Udemy\Turnos
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/edgar.lao/Desktop/Udemy/Net-Core-Udemy/Turnos/Views/Especialidad/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpYWxpZGFkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/edgar.lao/Desktop/Udemy/Net-Core-Udemy/Turnos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
